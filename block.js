@@ -10,9 +10,9 @@ class Block {
 
 	constructor(data){
 		this.id = 0;
-        this.nonce = 144444;
-      	this.body = data;
-      	this.hash = "";
+		this.nonce = 144444;
+		this.body = data;
+		this.hash = "";
     }
     
     /**
